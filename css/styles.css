@@ -726,6 +726,11 @@ img {
   margin-left: 12px;
   padding: 10px 29px;
   min-width: 200px;
+
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
+
   color: var(--different-text-color);
   background-color: var(--accent-bg-color);
   text-decoration: none;
